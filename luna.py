@@ -15,7 +15,7 @@ else:
 
 luna = Client(
     ":memory:",
-    bot_token=bot_token,
+    bot_token="5872798715:AAE6VSIqrjdGqMqoS4SiVP7-FPxzLj9Nz8c",
     api_id=6,
     api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e",
 )
